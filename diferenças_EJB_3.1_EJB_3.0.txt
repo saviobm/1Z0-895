@@ -1,0 +1,17 @@
+
+Serviço de agendamento - Timer Service
+Padronização de nomes JNDI globais
+Singleton Bean
+Agora, as interfaces passam a ser opcionais, há a possibilidade de chamadas assíncronas de forma simplificada e pode-se implantar EJBs na camada web
+
+
+Singleton Beans;
+Interface opcional para componentes;
+Timer Service;
+Deploy de EJBs na camada web (.war);
+Chamadas assíncronas a métodos;
+Nomes JNDI globais padronizados;
+EJB Lite;
+Embeddable EJB.
+
+https://www.devmedia.com.br/enterprise-java-beans-3-1/15013
